@@ -38,7 +38,7 @@ const Login = () => {
       <>
         <section className='heading'>
           <h1><FaSignInAlt /> Login</h1>
-          <p>Login and start creating tasks</p>
+          <p>Login and start creating members list</p>
         </section>
         <section className='form'>
           <form onSubmit={onSubmit}>

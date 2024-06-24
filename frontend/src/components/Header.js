@@ -17,7 +17,7 @@ const Header = () => {
     return (
         <header className='header'>
             <div className="logo">
-                <Link to='/'>Task Creator</Link>
+                <Link to='/'>Member Creator</Link>
             </div>
             <ul>
                 {user ? (
